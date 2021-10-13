@@ -8,3 +8,5 @@ what we did (Group_40_report.pdf). We created a network that can classify an inp
 We loaded the data, divided it into training sets and use it to train a neural network. Finally, we used our network to recognize the classes of the 
 unknown sample. You are expected to write the entire network from scratch:. A Jupyter Notebook can efficiently create and train neural networks. 
 We compared the results of this notebook with your own neural network to see how well our network does.
+
+**Please see the Group_40_report.pdf for the in-depth analysis and results.**
